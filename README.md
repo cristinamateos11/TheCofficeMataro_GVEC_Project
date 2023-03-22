@@ -1,5 +1,6 @@
-
-# The Coffice Mataró
+<h1 align="center"> 
+   <img src="logoTCMtransparent"> 
+</h1>
 
 ## Sobre The Coffice Mataró
 
