@@ -5,7 +5,7 @@
 ## Sobre The Coffice Mataró :coffee:
 
 The Coffice Mataró es un multiespacio de uso de trabajo combinado con ocio cultural. Ofrecemos un espacio cafetería/librería y
-co-working. Queremos fomentar la lectura, el trabajo en equipo y hacer que las personas que nos visiten puedan sentirse como
+co-working. Queremos fomentar la lectura, el trabajo en equipo y hacer que las personas que nos visiten puedan sentirse como en
 casa, dotándoles de un lugar multiservicio personalizado en un ambiente tranquilo y familiar, destinado tanto a jóvenes, estudiantes,
 personas emprendedoras e incluso aquellos profesionales que sólo necesitan un sitio para encontrarse de vez en cuando o para
 temporadas.
