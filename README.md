@@ -1,5 +1,5 @@
 <h1 align="center"> 
-   <img src="logoTCMtransparent"> 
+   <img src="logoTCMtransparent.png"> 
 </h1>
 
 ## Sobre The Coffice Mataró
