@@ -13,14 +13,16 @@ temporadas.
 ## Idea :bulb:
 
 Nuestra idea tiene como principal objetivo ofrecer un espacio con un ambiente innovador donde cualquier persona pueda encontrar
-la comodidad necesaria para poder trabajar o relajarse. Surgió porque en nuestra ciudad faltan espacios así por
-nosotros, los estudiantes, por ejemplo y nos propusimos hacerlo.
+la comodidad necesaria para poder trabajar o relajarse. Surgió porque en nuestra ciudad faltan espacios así para
+nosotros, los estudiantes y nos propusimos ponerlo en marcha.
+
 Por un lado, destacamos que nuestra idea tiene un plan de viabilidad que lo soporta, ya que tenemos en cuenta aquellas
 personas que encuentran dificultades a la hora de encontrar un lugar tranquilo. Y los ingresos y gastos están justificados.
 También tenemos en cuenta aquellas personas que necesitan un espacio donde trabajar por horas, en días concretos, en
 momentos concretos de su actividad. Nosotros resolvemos estas necesidades de trabajo que responden a la seguridad,
-afiliación, según Maslow; así como también atendemos al sesgo social, promoviendo por ejemplo el café - lectura. Por otra
-banda, habiendo detectado algunas necesidades que consideramos fundamentales en la sociedad actual (este espacio pensado
+afiliación, según Maslow; así como también atendemos al sesgo social, promoviendo por ejemplo el café - lectura. 
+
+Por otro lado, habiendo detectado algunas necesidades que consideramos fundamentales en la sociedad actual (este espacio pensado
 de esta forma no existe en nuestra ciudad) hemos sido capaces de ofrecer una respuesta que tiene impacto social, ya que
 en The Coffice Mataró cualquier persona puede reunirse de forma física y cercana (no a través de la red), favoreciendo así
 el trabajo en equipo, sociabilizando con otras personas y también ofreciendo ocio cultural para fomentar la lectura.
