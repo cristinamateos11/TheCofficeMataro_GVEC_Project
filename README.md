@@ -2,7 +2,7 @@
    <img src="logoTCMtransparent.png"> 
 </h1>
 
-## Sobre The Coffice Mataró
+## Sobre The Coffice Mataró :coffee:
 
 The Coffice Mataró es un multiespacio de uso de trabajo combinado con ocio cultural. Ofrecemos un espacio cafetería/librería y
 co-working. Queremos fomentar la lectura, el trabajo en equipo y hacer que las personas que nos visiten puedan sentirse como
@@ -10,7 +10,7 @@ casa, dotándoles de un lugar multiservicio personalizado en un ambiente tranqui
 personas emprendedoras e incluso aquellos profesionales que sólo necesitan un sitio para encontrarse de vez en cuando o para
 temporadas.
 
-## Idea
+## Idea :bulb:
 
 Nuestra idea tiene como principal objetivo ofrecer un espacio con un ambiente innovador donde cualquier persona pueda encontrar
 la comodidad necesaria para poder trabajar o relajarse. Surgió porque en nuestra ciudad faltan espacios así por
@@ -25,11 +25,11 @@ de esta forma no existe en nuestra ciudad) hemos sido capaces de ofrecer una res
 en The Coffice Mataró cualquier persona puede reunirse de forma física y cercana (no a través de la red), favoreciendo así
 el trabajo en equipo, sociabilizando con otras personas y también ofreciendo ocio cultural para fomentar la lectura.
 
-## Premios CREATIC y Premios ARGÓ
+## Premios CREATIC y Premios ARGÓ :trophy:
 
 Este proyecto de CFGS ha sido ganador de 2 premios en el ámbito de mejor Proyecto Emprendedor de FP.
 
-## Autoras
+## Autoras :coffee:
 
 - `Cristina Mateos Paez`: Desarrolladora web y Marketing SEO.
 - `Nouhaila Benktib`: Marketing y Diseño.
